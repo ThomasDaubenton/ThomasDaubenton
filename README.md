@@ -1,6 +1,6 @@
 
 
-<img width="100%" src="https://github-profile-page-creator.netlify.app/github-header-image.png" alt="my banner">
+<img width="100%" src="https://github.com/ThomasDaubenton/ThomasDaubenton/blob/main/github-header-image.png?raw=true" alt="my banner"> 
 
 I am a Software Engineer, specialised in building microservices architectures and contenerized applications.
 I have a three year experience in IT Consulting.
@@ -27,14 +27,3 @@ I have a three year experience in IT Consulting.
 <a href="https://twitter.com/https://twitter.com/ThomasDaubenton"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://codepen.io/https://codepen.io/ThomasDaubenton"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
-
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=ThomasDaubenton">
-</p>
-
-## 📊 Github Status
